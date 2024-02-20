@@ -1,5 +1,12 @@
-### Hi there 👋
+## Profilo GitHub di *Angelo Alberico*
 
+### Benvenuto nel mio profilo GitHub!
+
+Ciao 🐱‍🏍 Sono Uno studente di informatica all'università di Salerno https://www.unisa.it/
+
+### Cosa troverai qui?
+Nel mio profilo GitHub, troverai una varietà di progetti e codice sorgente💾 . Sperimento con diverse tecnologie e linguaggi di programmazione, cercando di ampliare le mie conoscenze e migliorare le mie abilità🎨.
+Dalla creazione di applicazioni web alla risoluzione di problemi algoritmici.
 <!--
 **Nakura125/Nakura125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
