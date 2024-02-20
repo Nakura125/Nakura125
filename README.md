@@ -2,7 +2,7 @@
 
 ### Benvenuto nel mio profilo GitHub!
 
-Ciao 🐱‍🏍 Sono Uno studente di informatica all'università di Salerno https://www.unisa.it/
+Ciao 🐱‍🏍 Sono uno studente di informatica all'università di Salerno https://www.unisa.it/
 
 ### Cosa troverai qui?
 Nel mio profilo GitHub, troverai una varietà di progetti e codice sorgente💾 . Sperimento con diverse tecnologie e linguaggi di programmazione, cercando di ampliare le mie conoscenze e migliorare le mie abilità🎨.
