@@ -1,4 +1,4 @@
-## Profilo GitHub di *Angelo Alberico*
+## Profilo GitHub di **Angelo Alberico**
 
 ### Benvenuto nel mio profilo GitHub!
 
