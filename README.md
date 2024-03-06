@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcebfd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Angelo+Alberico;I'm+21+years+old;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+---
 ### Benvenuto nel mio profilo GitHub!
 
 Ciao 🐱‍🏍 Sono uno studente di informatica all'università di Salerno https://www.unisa.it/
